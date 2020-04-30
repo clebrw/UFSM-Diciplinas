@@ -81,7 +81,7 @@ void tarefa_2(void)
 
 void tarefa_3(void)
 {
-        volatile uint8_t c = 0;
+        volatile uint16_t c = 0;
         while(1)
         {
                 c++;
